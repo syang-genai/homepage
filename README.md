@@ -56,3 +56,14 @@ This is the image generated in the <a href="https://drive.google.com/file/d/1KcN
 <figure>
   <img src="layout.png">
 </figure>
+
+
+## Text-to-SQL RAG Chatbot based on Instruction Fine-tuned Llama (7B) Model
+This project contains two parts: 
+1. Instruction fine-tuning Llama model on Text-to-SQL dataset.
+2. Constructed a vector database to enhance Llama’s performance utilizing the Retrieval-Augmented Generation (RAG) technique and the Langchain framework. And developed a Gradio chat web demo.
+![download model](model_overview.png)
+3. Best model pushed to huggingface: https://huggingface.co/SHSH0819/Text2SQL-llama2/tree/main
+
+
+
