@@ -9,6 +9,10 @@
 ### Model Architechture
 ![plot](./docs/architechture.png)
 
+
+### Model Results
+![plot](./docs/experiments.png)
+
 ### Citation
 ```bibtex
 @misc{yang2024mftf,
