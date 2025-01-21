@@ -11,7 +11,7 @@
 
 
 ### Model Results
-![plot](./docs/experiments.png)
+![plot](./docs/experiment.png)
 
 ### Citation
 ```bibtex
