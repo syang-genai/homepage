@@ -73,6 +73,13 @@ This is the image generated in the <a href="https://drive.google.com/file/d/1KcN
   <img src="layout.png">
 </figure>
 
+## Qwen-Finance-LLM
+Developed an intelligent financial agent leveraging the Qwen3-8B large language model to deliver advanced financial knowledge Q&A, investment analysis, instantaneous stock lookups, and real-time financial news insights. Implemented Supervised Fine-Tuning (SFT) under constrained GPU environments using QLoRA combined with FlashAttention, achieving more than an 80% reduction in memory utilization while doubling token throughput. Further enhanced model alignment through GRPO-based reinforcement learning, utilizing the Qwen3-14B model as a reward model (deployed via vLLM), resulting in a 13% performance uplift on financial domain benchmarks. Designed and deployed real-time agent capabilities by integrating the Alpha Vantage MCP Server with Google AgentADK, enabling seamless access to live market data and financial news feeds.
+
+<figure>
+  <img src="google-adk.png">
+</figure>
+
 
 ## Text-to-SQL RAG Chatbot based on Instruction Fine-tuned Llama (7B) Model
 This project contains two parts: 
